@@ -2,7 +2,7 @@
   image: https://media.githubusercontent.com/media/cjuillard/processing_projects/main/Loops2/loop_small.gif
   link: https://github.com/cjuillard/processing_projects
   description: Some generative art side projects I worked on in processing.
-- name: Crash Encounter
+- name: Three JS Rendering Samples
   image: https://cdn.pixabay.com/photo/2015/07/17/22/43/student-849822_960_720.jpg
-  link: https://github.com/cjuillard/crash_encounter
-  description: WIP networking game project in Unity to learn more about Mirror Networking.
+  link: https://cjuillard.github.io/three-js-rendering/
+  description: Three JS project to try out some rendering techniques.
